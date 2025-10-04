@@ -1,3 +1,3 @@
-Punkt1 Begrüßung
+Punkt1 Anna sagt HAllo
 Punkt2 Viel reden
-Punkt3 Verabschiedung
+Punkt3 Auf Wiedersehen von Anna
